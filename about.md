@@ -16,6 +16,7 @@ menu:
   footer:
     identifier: _about
     weight: 3
+    title: About Us
   navigation:
     identifier: _about
     weight: 2
